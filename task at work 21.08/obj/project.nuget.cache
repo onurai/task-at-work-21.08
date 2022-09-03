@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1QwAQGovk9pYKFAvF5lRAS6UPgXTim1xJN3N23u129p/59+HpwATqSn90od+cgB/KInaceZcklZQIhlGdFjwFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\task at lesson 21.08\\task at work 21.08\\task at work 21.08.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
